@@ -1,0 +1,20 @@
+{
+  "name": "dailyhabittracker",
+  "version": "1.0.0",
+  "description": "habit tracker app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkandaSrinivasan/DailyHabitTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkandaSrinivasan/DailyHabitTracker/issues"
+  },
+  "homepage": "https://github.com/SkandaSrinivasan/DailyHabitTracker#readme"
+}
